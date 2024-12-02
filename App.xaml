@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:ExamenIIMateoPuga"
              x:Class="ExamenIIMateoPuga.App">
+    
     <Application.Resources>
         <ResourceDictionary>
             <Style TargetType="Button">
