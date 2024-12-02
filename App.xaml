@@ -5,6 +5,15 @@
              x:Class="ExamenIIMateoPuga.App">
     <Application.Resources>
         <ResourceDictionary>
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#4CAF50" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="CornerRadius" Value="10" />
+            </Style>
+            <Style TargetType="Label">
+                <Setter Property="FontFamily" Value="CustomFont" />
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />

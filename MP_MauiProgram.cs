@@ -2,7 +2,7 @@
 
 namespace ExamenIIMateoPuga
 {
-    public static class MauiProgram
+    public static class MP_MauiProgram
     {
         public static MauiApp CreateMauiApp()
         {

@@ -19,7 +19,7 @@ namespace ExamenIIMateoPuga.WinUI
             this.InitializeComponent();
         }
 
-        protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
+        protected override MauiApp CreateMauiApp() => MP_MauiProgram.CreateMauiApp();
     }
 
 }
